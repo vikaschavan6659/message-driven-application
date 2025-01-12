@@ -33,7 +33,7 @@ Getting Started
  
 1. Clone the Repository
  
-git clone https://github.com/your-username/producer-consumer-app.git
+git clone 'https://github.com/vikaschavan6659/message-driven-application.git/
 cd producer-consumer-app
  
  
